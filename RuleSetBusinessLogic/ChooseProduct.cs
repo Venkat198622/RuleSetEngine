@@ -1,5 +1,4 @@
-﻿using System;
-using RuleSetBusinessLogic.Product;
+﻿using RuleSetBusinessLogic.Product;
 using RuleSetBusinessLogic.Strategy;
 
 namespace RuleSetBusinessLogic
